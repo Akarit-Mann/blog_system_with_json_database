@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "title": "akaritmann",
+      "body": "akaritmann",
+      "tags": [
+        "html",
+        "css",
+        "js",
+        "bootstrap",
+        "vue"
+      ],
+      "id": 5
+    },
+    {
+      "title": "kyawkyaw",
+      "body": "kyawkyaw",
+      "tags": [
+        "figmer"
+      ],
+      "id": 6
+    },
+    {
+      "title": "susu",
+      "body": "susu",
+      "tags": [
+        "css",
+        "html"
+      ],
+      "id": 7
+    }
+  ]
+}
